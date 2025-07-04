@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Advanced topics in Software Engineering.**
 
-- 📝 I regularly design articles on [https://ruvi---creations.blogspot.com/](https://ruvi---creations.blogspot.com/)
+- 📝 I regularly design articles on [https://ruvi---creations.blogspot.com/]([https://ruvi---creations.blogspot.com](https://ruugraphics2002.blogspot.com/)/)
 
 - 💬 Ask me about **My experiences in software development, database management, and my journey as an IT undergraduate student.**
 
