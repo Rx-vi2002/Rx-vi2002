@@ -1,25 +1,88 @@
-<h1 align="center">Hi 👋, I'm Ruvindi Wickramasinghe</h1>
-<h3 align="center">With a strong passion for Software Development , Web Development , Database Administration or Cybersecurity ,I have been actively involved modules related projects.</h3>
+# Hi 👋, I'm Ruvindi Wickramasinghe
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=rx-vi2002&label=Profile%20views&color=0e75b6&style=flat" alt="rx-vi2002" /> </p>
+💻 Passionate about **Software Development, Web Development, Database Administration, and Cybersecurity**.  
+🔐 Skilled in Frontend & Backend Technologies, Databases, and Programming Languages.  
+💡 Hands-on experience in **network security, ethical hacking, vulnerability assessment, and secure coding practices**.
 
-- 🌱 I’m currently learning **Advanced topics in Software Engineering.**
+---
 
-- 📝 I regularly design articles on [https://ruvi---creations.blogspot.com/]([https://ruvi---creations.blogspot.com](https://ruugraphics2002.blogspot.com/)/)
+## 👯 I’m looking to collaborate on
+- **TryHackMe Room for Web Security**  
+  [🔗 Coming Soon]
 
-- 💬 Ask me about **My experiences in software development, database management, and my journey as an IT undergraduate student.**
+## 🌱 I’m currently learning
+- OWASP Top 10, Secure Web Development  
+- Cybersecurity Labs (TryHackMe & Hack The Box)
 
-- 📫 How to reach me **https://www.linkedin.com/in/ruvindi-wickramasinghe-8a9aab308?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app**
+## 📫 How to reach me
+- 📧 Email: pburuvindi@gmail.com
+- 🔗 [LinkedIn](https://www.linkedin.com/in/ruvindi-wickramasinghe/)
 
-- ⚡ Fun fact **Ruvi**
+## 👨‍💻 All of my projects are available at
+- 🌐 [My Portfolio](https://rx-vi2002.github.io/Ruvindi-Wickramasinghe/)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/@ruvindi-wickramasinghe" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@ruvindi-wickramasinghe" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/www.linkedin.com/in/ruvindi-wickramasinghe_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ruvindi-wickramasinghe-8a9aab308?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" height="30" width="40" /></a>
-<a href="https://instagram.com/_rx_vi_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_rx_vi_" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@ruvindiwickramasinghe4032" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@ruvindiwickramasinghe4032" height="30" width="40" /></a>
-</p>
+## 📝 I regularly write articles on
+- 🧠 [Medium](https://medium.com/@ruvindiwickramasinghe100)
+- 🧠 [Blog](https://ruugraphics2002.blogspot.com/)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
+## 📄 Know about my experiences
+- 📃 [Resume](https://rx-vi2002.github.io/Ruvindi-Wickramasinghe/Ruvindi_CV.pdf)
+
+## ⚡ Fun fact
+- I think I'm funny... until I debug code at 3am 😅
+
+---
+
+## 🛠️ Languages and Tools
+
+### 👩‍💻 Programming Languages  
+![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c)  
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B)  
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java)  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript)  
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php)
+
+### 🌐 Frontend  
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5)  
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)  
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap)   
+![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react)
+
+### 💾 Database  
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql)  
+
+### 🐧 DevOps & Tools  
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)  
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux)  
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual-studio-code)
+
+---
+
+## 📈 GitHub Stats
+
+![Ruvindi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rx-vi2002&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rx-vi2002&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Rx-vi2002&theme=radical&date_format=M%20j%5B%2C%20Y%5D)
+
+---
+
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Rx-vi2002&theme=darkhub&no-frame=true)](https://github.com/Rx-vi2002)
+
+---
+
+## 📫 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/ruvindi-wickramasinghe/)  
+[![Medium](https://img.shields.io/badge/-Medium-black?logo=medium&style=flat)](https://medium.com/@ruvindiwickramasinghe100)  
+[![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&style=flat)](https://github.com/Rx-vi2002)
+
+---
+
+## ☕ Support
+
+If you find my projects helpful, consider buying me a coffee!  
+[![Buy Me a Coffee](https://img.shields.io/badge/-Buy%20me%20a%20coffee-orange?style=flat&logo=buy-me-a-coffee&logoColor=white)](https://www.buymeacoffee.com/ruvindi)
+
